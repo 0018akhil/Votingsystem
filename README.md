@@ -11,3 +11,9 @@
 
 ![Screenshot (96)](https://user-images.githubusercontent.com/62931444/98956094-a3611b80-2525-11eb-826d-c745be3b1336.png)
 
+## User Interface
+### Once login successfully this is the interface of the user.
+### It shows the details of the user at left side and also his voting status. Once voted, the vote buttons will be disabled and status will become green.
+
+![Screenshot (97)](https://user-images.githubusercontent.com/62931444/98956800-7a8d5600-2526-11eb-8b41-69c04ea97b0d.png)
+
