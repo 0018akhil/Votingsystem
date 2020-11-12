@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navigation{
+    font-family: 'Aclonica', sans-serif;
+    font-size: xx-large;
+    font-weight: bold;
+    color: white;
+    width: 100%;
+    height: 50px;
+    background: #8fe773;
+    text-align: center;
+}
+
+.vote{
+    display: inline-block;
+    font-size: 40px;
+}
+
+.system{
+    background: #dde7da;
+    height: 620px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.groups{
+    background: white;
+    height: 400px;
+    width: 600px;
+    border: 2px solid #8fe773;
+    border-radius: 10px;
+    position: relative;
+    
+}
+
+.name{
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    top: -70px;
+    font-family: 'Aclonica', sans-serif;
+    font-size: x-large;
+    color: #71e64d;
+}
+
+.login{
+    background: white;
+    height: 400px;
+    width: 300px;
+    border: 2px solid #8fe773;
+    border-radius: 10px;
+    position: relative;
+    text-align: center;
+    padding: 20px 10px;
+    
+
+}
+
+.login-logo{
+    font-size: 80px;
+    line-height: 50px;
+    color: white;
+    background: #2b924a;
+    text-align: center;
+    display: inline-block;
+    border-radius: 50%;
+    
+}
+
+.form-adj{
+    display: block;
+    margin: 0 auto;
+    height: 30px;
+    width: 200px;
+    margin-top: 20px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ced3d0;
+}
+
+#btn{
+    width: 100px;
+    font-size: medium;
+    font-weight: bold;
+    color: white;
+    background: #049530;
+    border: none;
+}
+
+#btn:hover{
+    cursor: pointer;
+    
+}
+
+.Register{
+    margin-top: 20px;
+    font-weight: bolder;
+    
+}
+
+
+
+
+

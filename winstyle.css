@@ -1,0 +1,38 @@
+.voting-list{
+    width: 600px;
+    height: 120px;
+    border-radius: 10px;
+    border: 3px solid black;
+    background: #dde7da;
+    margin: 10px 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.login{
+    overflow-y: scroll;
+}
+
+.grp-name{
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.vote-btn{
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    background: rgb(15, 141, 21);
+    color: white;
+    font-weight: bold;
+    font-size: medium;
+}
+
+.vote-btn:hover{
+    cursor: pointer;
+}

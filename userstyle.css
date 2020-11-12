@@ -1,0 +1,49 @@
+.navigaion{
+    position: relative;
+}
+
+.logout-btn{
+    border: none;
+    display: inline-block;
+    font-size: 20px;
+    color: white;
+    background: transparent;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.login-user-logo{
+    display: inline-block;
+    font-size: 30px;
+    margin-top: 5px;
+    border-radius: 60%;
+    background: rgb(15, 141, 21);
+        
+}
+
+.main-btn{
+    position: absolute;
+    display: inline-block;  
+    z-index: 1;
+    margin-left: 24%;
+
+
+}
+
+.login-user-logo:hover, .logout-btn:hover{
+
+    cursor: pointer;
+
+}
+
+.login{
+    width: 650px;
+    height: 400px;
+}
+
+.groups{
+    height: 500px;
+    width: 300px;
+    align-items: center;
+}
+
