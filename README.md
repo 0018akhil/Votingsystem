@@ -17,3 +17,7 @@
 
 ![Screenshot (97)](https://user-images.githubusercontent.com/62931444/98956800-7a8d5600-2526-11eb-8b41-69c04ea97b0d.png)
 
+## Successfully voted
+### If user votes status will become 'voted'(green) and vote button will be disabled.
+
+![Screenshot (98)](https://user-images.githubusercontent.com/62931444/98957619-5e3de900-2527-11eb-9962-e40da27b1e86.png)
